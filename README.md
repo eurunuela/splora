@@ -21,3 +21,5 @@ How to use:
 To see all options available, type: `splora -h`
 
 You can also use the package by importing to your own Python script.
+
+This is a test.
